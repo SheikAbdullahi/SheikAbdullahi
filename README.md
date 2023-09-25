@@ -9,7 +9,7 @@
 
 - ✨ **I'm currently on an exchange semester at Universitat Politècnica de Catalunya · Barcelona Tech (UPC). I'm enrolled in a master's degree program in efficient systems engineering and am taking courses in data analysis and pattern recognition, machine learning, and computer vision.**
 
-- ⚡ **Fun fact I like to run and play football.**
+- ⚡ **Fun fact I like to run and play football⚽.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

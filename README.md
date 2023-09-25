@@ -11,6 +11,17 @@
 
 - ⚡ **Fun fact I like to run and play football⚽.**
 
+  <h3 align="left">👨‍💻 Experience:</h3>
+
+- **Software Engineer, Internship - NOV Inc.**
+   - Worked with C++ and utilized Qt libraries for fullstack software development.
+   - Developed GUI using Qt/QML/Quick, creating intuitive user interfaces.
+   - Executed and analyzed test cases, algorithms, and code to ensure efficient and effective testing processes.
+   - Performed stress testing to evaluate the robustness and performance of software applications.
+
+- **Teacher Assistant - Mathematics 3000 DAVE3700**
+   - Teaching Assistant for the course "Mathematics 3000" (DAVE3700).
+   - Leading exercise sessions and addressed students' queries regarding course material.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullahi-sheik-5b6b27225/" target="_blank">
